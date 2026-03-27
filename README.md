@@ -1,4 +1,4 @@
-# Manish Shadrach
+# Shadrach Manish 
 
 Full-Stack AI Solutions Builder | Workflow Automation | Business-Focused Systems
 
