@@ -1,44 +1,27 @@
-# Shadrach Manish 
+# Hi, I'm Shadrach Manish
 
-Full-Stack AI Solutions Builder | Workflow Automation | Business-Focused Systems
+Client Services Director focused on business growth, delivery excellence, and scalable operations.
 
----
+I build practical technology solutions that improve workflows, customer experience, and decision-making through AI, automation, and product thinking.
 
-## What I Do
+## Core Strengths
+- Client Services & Stakeholder Management
+- Business Operations & Process Optimization
+- AI Tools & Workflow Automation
+- Product Strategy & Execution
+- Customer Experience Improvement
 
-I design and build AI-powered systems that help businesses automate workflows, improve response time, and reduce manual effort.
+## Current Focus
+- AI-powered business tools
+- Workflow automation systems
+- Data-driven operational dashboards
+- Practical web products
 
-Focused on execution — turning ideas into working solutions.
+## Featured Projects
+- Compute vs Token Economics Demo
+- Client Workflow Automation Tools
+- AI Productivity Utilities
+- Business Operations Dashboards
 
----
-
-## Core Expertise
-
-- AI Workflow Design & Automation  
-- End-to-End Solution Building (Frontend + Backend + AI Integration)  
-- Business Process Optimization using AI  
-
----
-
-## Solutions I Build
-
-- AI Receptionist Systems (Customer interaction automation)  
-- Lead Management & Qualification Systems  
-- Internal Workflow Automation Tools  
-
----
-
-## Tech Stack
-
-- Frontend: HTML, JavaScript (basic UI)  
-- Backend & Automation: APIs, Zapier / Make  
-- AI Integration: OpenAI APIs  
-- Tools: Notion, Airtable, Google Sheets  
-
----
-
-## Contact
-
-Open to building practical AI solutions for businesses.
-
-- LinkedIn: https://www.linkedin.com/in/shadrach-manish-38ab96222  
+## Connect
+LinkedIn: www.linkedin.com/in/shadrach-manish-38ab96222
